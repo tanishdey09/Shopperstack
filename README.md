@@ -16,3 +16,4 @@ Roles and responsibilities:
 
 Conclusion:
 In this project, we have gone through different types of testing i.e. smoke testing, functionality testing & integration testing so that we meet all the objectives of this project. After identifying and executing the test scenarios and the test cases we can ensure that the product is stable and it is ready for production and satisfies customer's requirements.
+https://dandy-march-1a0.notion.site/da115e2c51cd48828b949a91762dca59?v=a40f7558fcb14f25baf9ce43b93a1c78&pvs=4
