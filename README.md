@@ -11,7 +11,7 @@ Roles and responsibilities:
 1. Analysis and understanding of the requirements specification.
 2. Execute smoke testing on the website.
 3. Identify Functionality test scenarios and test cases.
-4. Identify Integration test scenarios and test cases.
+4. Identify Integration test scenarios.
 5. Identify and document defects, providing detailed reports.
 
 Conclusion:
