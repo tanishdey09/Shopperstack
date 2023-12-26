@@ -15,4 +15,4 @@ Roles and responsibilities:
 5. Identify and document defects, providing detailed reports.
 
 Conclusion:
-In this project, we have gone through different types of testing i.e. smoke testing, functionality testing & integration testing so that we meet all the objectives of this project. After identifying and executing the test scenarios and the test cases we can ensure that the product is stable and it is ready for production and fulfills the customer's requirements.
+In this project, I have gone through different types of testing i.e. smoke testing, functionality testing & integration testing so that we meet all the objectives of this project. After identifying and executing the test scenarios and the test cases we can ensure that the product is stable and it is ready for production and fulfills the customer's requirements.
